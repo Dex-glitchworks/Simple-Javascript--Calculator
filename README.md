@@ -6,6 +6,7 @@ This project is a simple calculator built using HTML, CSS, and JavaScript. It pe
 
 The main goal of this project was to strengthen my understanding of how HTML, CSS, and JavaScript work together to build an interactive web application. It also gave experience with DOM manipulation, event handling, and applying calculator logic from scratch.
 
+---
 
 ## Features:-
 
@@ -17,6 +18,7 @@ The main goal of this project was to strengthen my understanding of how HTML, CS
 - Responsive button interactions
 - Dark-themed user interface
 
+---
 
 ## Technologies Used:-
 
@@ -24,6 +26,7 @@ The main goal of this project was to strengthen my understanding of how HTML, CS
 - CSS3
 - JavaScript
 
+---
 
 ## Getting Started:-
 
@@ -38,6 +41,7 @@ The main goal of this project was to strengthen my understanding of how HTML, CS
 
 No additional libraries or installation steps are required.
 
+---
 
 ## What I Learned:-
 
