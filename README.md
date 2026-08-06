@@ -24,7 +24,6 @@ The main goal of this project was to strengthen my understanding of how HTML, CS
 - CSS3
 - JavaScript
 
----
 
 ## Getting Started:-
 
